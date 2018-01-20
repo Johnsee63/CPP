@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Lesson8.cpp
+c:\users\janos\source\repos\cpp\lesson8\lesson8\lesson8.cpp(150): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\janos\source\repos\cpp\lesson8\lesson8\lesson8.cpp(152): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
